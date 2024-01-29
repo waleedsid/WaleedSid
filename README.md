@@ -12,20 +12,11 @@ I'm Waleed Siddique, a dynamic and motivated Computer Science student passionate
 
 ## 🚀 About Me
 
-- 💼 **Professional Experience:**
-  - Senior Content Generator at DigiXpot.
-  - Ambassador for the National Financial Literacy Program For Youth.
-  - Campus Director at Hult Prize Foundation.
-  - Ambassador for the International Global Network.
-  - Core Team Member for Metrix Tech Summit.
- 
-- 🎓 **Education:**
-  - Bachelors of Computer Science, COMSATS University Islamabad, Abbottabad Campus, expected graduation in 2025.
+      <img align="right" alt="coding" width="500"  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 
+    
+  
 ## 🛠️ Skills
-
-<h3 align="left">🚀 Languages and Tools:</h3>
-<p align="left">
 <h6>
   Programming Languages 
 </h6>
@@ -44,21 +35,14 @@ I'm Waleed Siddique, a dynamic and motivated Computer Science student passionate
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" width="30" height="30"/></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" title="Spring" width="30" height="30"/></a>
 
-<h6>Database</h6>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="MongoDB" width="30" height="30"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" title="Microsoft SQL Server" width="30" height="30"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" width="30" height="30"/></a>
-
 <h6>Frontend Tools</h6>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="30" height="30"/></a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" title="Illustrator" width="30" height="30"/></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" title="Adobe XD" width="30" height="30"/></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="Photoshop" width="30" height="30"/></a>
 
-<h6>Server-side Technologies</h6>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="Node.js" width="30" height="30"/></a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" title="Oracle" width="30" height="30"/></a>
+  </p>
+  
 
-</p>
-
-
+    
 ## 📚 Certifications and Licenses
 
 1. **User Experience & User Interface Designing | CyberVision International | Mar 2021**
