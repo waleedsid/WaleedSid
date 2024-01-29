@@ -2,7 +2,7 @@
 
 ## 👋 Hello, World!
 
-I'm Waleed Siddique, a dynamic and motivated Computer Science student passionate about community engagement and leveraging technology for positive change. Currently pursuing a Bachelor's degree at COMSATS University Islamabad, Abbottabad Campus, with an expected graduation in 2025.
+I'm **Waleed Siddique**, a dynamic and motivated Computer Science student passionate about community engagement and leveraging technology for positive change. Currently pursuing a Bachelor's degree at COMSATS University Islamabad, Abbottabad Campus, with an expected graduation in 2025.
 
 
 
@@ -14,11 +14,13 @@ I'm Waleed Siddique, a dynamic and motivated Computer Science student passionate
   https://WaleedSid.mit-license.org/
 
 
- <img align="right" alt="coding" width="500"  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
+
 
     
   
 ## 🛠️ Skills
+ <img align="right" alt="coding" width="500"  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
+
 <h6>
   Programming Languages 
 </h6>
@@ -46,13 +48,17 @@ I'm Waleed Siddique, a dynamic and motivated Computer Science student passionate
 
     
 ## 📚 Certifications and Licenses
+<p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedsid&show_icons=true&locale=en&layout=compact" alt="waleedsid" /></p>
 
 1. **User Experience & User Interface Designing | CyberVision International | Mar 2021**
 2. **UI/UX Design With Figma | Udemy | Issued: Sept 2022**
-3. **Content Marketing | HubSpot Academy | Issued: Dec 2023, Expires: Jan 2026**
-4. **Microsoft Word | Passed LinkedIn Skill Assessment**
-5. **Adobe Illustrator | Passed LinkedIn Skill Assessment**
-6. **50+ Badges and 15+ Trophies from Microsoft**
+3. **GOF Pattern Design | Udemy | Issued: Sept 2022**
+4. **Content Marketing | HubSpot Academy | Issued: Dec 2023**
+5. **Generative AI | Udemy | Issued: Jan 2024**
+6. **3+ Certifications| Passed LinkedIn Skill Assessment**
+7 . **50+ Badges and 15+ Trophies from Microsoft**
+
+
 
 ## 📫 Let's Connect
 
@@ -63,7 +69,9 @@ I'm Waleed Siddique, a dynamic and motivated Computer Science student passionate
 <a href="https://medium.com/@waleedsid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@waleedsid" height="30" width="40" /></a>
 <a href="https://discord.gg/waleedsid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="waleedsid" height="30" width="40" /></a>
 </p>
-  
+
+## 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedsid&label=Profile%20views&color=0e75b6&style=flat" alt="waleedsid" /> </p>
 
 Feel free to explore my repositories and reach out for collaboration or discussions. Happy coding! 🚀
