@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Waleed Siddique</h1>
+<h1 align="center">Hi, I'm Waleed Siddique</h1>
 
 ## 👋 Hello, World!
 
 I'm Waleed Siddique, a dynamic and motivated Computer Science student passionate about community engagement and leveraging technology for positive change. Currently pursuing a Bachelor's degree at COMSATS University Islamabad, Abbottabad Campus, with an expected graduation in 2025.
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleedsid" alt="waleedsid" /></a> </p>
 
 **Official MIT License**  
-  https://waleedsid.mit-license.org/
+  https://WaleedSid.mit-license.org/
 
 ## 🚀 About Me
 
@@ -40,7 +41,7 @@ I'm Waleed Siddique, a dynamic and motivated Computer Science student passionate
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/waleedsid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleedsid" height="30" width="40" /></a>
-<a href="https://instagram.com/waleedsiddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waleedsiddd" height="30" width="40" /></a>
+<a href="https://instagram.com/waleed.siddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waleedsiddd" height="30" width="40" /></a>
 <a href="https://medium.com/@waleedsid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@waleedsid" height="30" width="40" /></a>
 <a href="https://discord.gg/waleedsid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="waleedsid" height="30" width="40" /></a>
 </p>
@@ -48,3 +49,5 @@ I'm Waleed Siddique, a dynamic and motivated Computer Science student passionate
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedsid&label=Profile%20views&color=0e75b6&style=flat" alt="waleedsid" /> </p>
 
 Feel free to explore my repositories and reach out for collaboration or discussions. Happy coding! 🚀
+
+Open Source Contributor from Pakistan 💚
