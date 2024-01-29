@@ -56,7 +56,7 @@ I'm **Waleed Siddique**, a dynamic and motivated Computer Science student passio
 4. **Content Marketing | HubSpot Academy | Issued: Dec 2023**
 5. **Generative AI | Udemy | Issued: Jan 2024**
 6. **3+ Certifications| Passed LinkedIn Skill Assessment**
-7 . **50+ Badges and 15+ Trophies from Microsoft**
+7. **50+ Badges and 15+ Trophies from Microsoft**
 
 
 
