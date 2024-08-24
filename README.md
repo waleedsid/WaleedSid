@@ -2,22 +2,43 @@
 
 ## 👋 Hello, World!
 
-I'm **Waleed Siddique**, a dynamic and motivated Computer Science student passionate about community engagement and leveraging technology for positive change. Currently pursuing a Bachelor's degree at COMSATS University Islamabad, Abbottabad Campus, with an expected graduation in 2025.
+<p align="justify">
+I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Computer Science student passionate about community engagement and leveraging technology for positive change. Currently pursuing a Bachelor's degree at COMSATS University Islamabad, Abbottabad Campus, with an expected graduation in 2025.
+</p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleedsid" alt="waleedsid" /></a> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleedsid" alt="waleedsid" /></a> </p>
-
-
-
-**Official MIT License**  
-  https://WaleedSid.mit-license.org/
-
-
-
-
-
-    
+<p align="center">
+  <!-- LinkedIn Button -->
+  <a href="https://linkedin.com/in/waleedsid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <!-- Instagram Button -->
+  <a href="https://instagram.com/waleed.siddd" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  
+  <!-- Medium Button -->
+  <a href="https://medium.com/@waleedsid" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  
+  <!-- Discord Button -->
+  <a href="https://discord.gg/waleedsid" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  
+  <!-- Resume Button -->
+  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+  </a>
+  
+  <!-- Website Button -->
+  <a href="YOUR_WEBSITE_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
   
 ## 🛠️ Skills
  <img align="right" alt="coding" width="500"  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
@@ -49,7 +70,6 @@ I'm **Waleed Siddique**, a dynamic and motivated Computer Science student passio
 
     
 ## 📚 Certifications and Licenses
-<p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedsid&show_icons=true&locale=en&layout=compact" alt="waleedsid" /></p>
 
 1. **User Experience & User Interface Designing | CyberVision International | Mar 2021**
 2. **UI/UX Design With Figma | Udemy | Issued: Sept 2022**
@@ -59,22 +79,31 @@ I'm **Waleed Siddique**, a dynamic and motivated Computer Science student passio
 6. **3+ Certifications| Passed LinkedIn Skill Assessment**
 7. **50+ Badges and 15+ Trophies from Microsoft**
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedsid&theme=light" alt="Waleed Siddique's GitHub Streak" />
 
-## 📫 Let's Connect
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/waleedsid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleedsid" height="30" width="40" /></a>
-<a href="https://instagram.com/waleed.siddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waleedsiddd" height="30" width="40" /></a>
-<a href="https://medium.com/@waleedsid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@waleedsid" height="30" width="40" /></a>
-<a href="https://discord.gg/waleedsid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="waleedsid" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedsid&layout=compact&hide_title=true&hide_border=true&theme=light" alt="Waleed Siddique's Top Languages" width="450" height="220" />
 </p>
+<br>
+ <p align="center"> 
+ <a href="https://WaleedSid.mit-license.org/" target="_blank">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License"/>
+  </a>
+   <a href="https://waleedsid.netlify.app/assets/pdf/Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-blue.svg" alt="Resume"/>
+  </a>
+<a href="https://komarev.com/ghpvc/?username=waleedsid&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
+    <img src="https://img.shields.io/badge/Profile_Views-View-blue.svg" alt="Profile Views"/>
+  </a>
+ </p>
 
 ## 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedsid&label=Profile%20views&color=0e75b6&style=flat" alt="waleedsid" /> </p>
-
+ <p align="center">
 Feel free to explore my repositories and reach out for collaboration or discussions. Happy coding! 🚀
-
+   </p>
+   <p align="center">
 Open Source Contributor from Pakistan 💚
+   </p>
