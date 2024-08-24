@@ -84,7 +84,7 @@ I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Computer Science s
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedsid&theme=light" alt="Waleed Siddique's GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedsid&layout=compact&hide_title=true&hide_border=true&theme=light" alt="Waleed Siddique's Top Languages" width="450" height="220" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedsid&layout=compact&hide_title=true&hide_border=true&theme=light" alt="Waleed Siddique's Top Languages" width="400" height="220" />
 </p>
 <br>
  <p align="center"> 
