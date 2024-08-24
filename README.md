@@ -81,11 +81,11 @@ I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Computer Science s
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedsid&theme=light" alt="Waleed Siddique's GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedsid&layout=compact&hide_title=true&hide_border=true&theme=light" alt="Waleed Siddique's Top Languages" width="450" height="220" />
-</p>
+ <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedsid&theme=light" alt="Waleed Siddique's GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedsid&show_icons=true&locale=en&layout=compact" alt="waleedsid" width="500" height="197"/></p>
+
+
+
 <br>
  <p align="center"> 
  <a href="https://WaleedSid.mit-license.org/" target="_blank">
