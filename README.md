@@ -82,7 +82,7 @@ I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Computer Science s
 ## 📊 GitHub Stats
 
 
- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedsid&theme=light" alt="Waleed Siddique's GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedsid&show_icons=true&locale=en&layout=compact" alt="waleedsid" /> </p>
+ <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedsid&theme=light" alt="Waleed Siddique's GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedsid&show_icons=true&locale=en&layout=compact" alt="waleedsid" height="195" /> </p>
 
 
 
