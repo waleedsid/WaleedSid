@@ -30,12 +30,12 @@ I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Computer Science s
   </a>
   
   <!-- Resume Button -->
-  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+  <a href=https://waleedsid.netlify.app/assets/pdf/Resume.pdf target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
   </a>
   
   <!-- Website Button -->
-  <a href="YOUR_WEBSITE_LINK_HERE" target="_blank">
+  <a href="https://waleedsid.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
