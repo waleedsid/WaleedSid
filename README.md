@@ -95,7 +95,7 @@ I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Computer Science s
     <img src="https://img.shields.io/badge/Resume-Download-blue.svg" alt="Resume"/>
   </a>
 <a href="https://komarev.com/ghpvc/?username=waleedsid&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
-    <img src="https://img.shields.io/badge/Profile_Views-View-blue.svg" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/Profile_Views-9.7k-blue.svg" alt="Profile Views"/>
   </a>
  </p>
 
