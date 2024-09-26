@@ -76,8 +76,11 @@ I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Computer Science s
 3. **GOF Pattern Design | Udemy | Issued: Sept 2022**
 4. **Content Marketing | HubSpot Academy | Issued: Dec 2023**
 5. **Generative AI | Udemy | Issued: Jan 2024**
-6. **3+ Certifications| Passed LinkedIn Skill Assessment**
-7. **50+ Badges and 15+ Trophies from Microsoft**
+6. **Facial Recognition Using TensorFlow And Teachable Machine | Udemy | Issued: Jan 2024**
+7. **Data Mesh - A Modern Decentralized Data Management Concept | Udemy | Issued: Sept 2024**
+8. **3+ Certifications| Passed LinkedIn Skill Assessment**
+9. **50+ Badges and 15+ Trophies from Microsoft**
+
 
 ## 📊 GitHub Stats
 
