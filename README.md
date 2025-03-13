@@ -30,7 +30,7 @@ I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Computer Science s
   </a>
   
   <!-- Resume Button -->
-  <a href=https://waleedsid.netlify.app/assets/pdf/Resume.pdf target="_blank">
+  <a href=https://waleedsid.netlify.app/assets/pdf/waleed_resume.pdf target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
   </a>
   
@@ -94,7 +94,7 @@ I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Computer Science s
  <a href="https://WaleedSid.mit-license.org/" target="_blank">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License"/>
   </a>
-   <a href="https://waleedsid.netlify.app/assets/pdf/Resume.pdf" target="_blank">
+   <a href="https://waleedsid.netlify.app/assets/pdf/waleed_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue.svg" alt="Resume"/>
   </a>
 <a href="https://komarev.com/ghpvc/?username=waleedsid&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
