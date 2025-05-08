@@ -11,11 +11,7 @@ I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Computer Science s
   <a href="https://linkedin.com/in/waleedsid" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <!-- Instagram Button -->
-  <a href="https://instagram.com/waleed.siddd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+
   
   <!-- Medium Button -->
   <a href="https://medium.com/@waleedsid" target="_blank">
@@ -26,11 +22,7 @@ I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Computer Science s
   <a href="https://discord.gg/waleedsid" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  
-  <!-- Resume Button -->
-  <a href=https://waleedsid.netlify.app/assets/pdf/waleed_resume.pdf target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
-  </a>
+
   
   <!-- Website Button -->
   <a href="https://waleedsid.netlify.app/" target="_blank">
