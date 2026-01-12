@@ -3,7 +3,7 @@
 ## 👋 Hello, World!
 
 <p align="justify">
-I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Computer Science student passionate about community engagement and leveraging technology for positive change.
+I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Data Science student passionate about community engagement and leveraging technology for positive change.
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleedsid" alt="waleedsid" /></a> </p>
 
 <p align="center">
