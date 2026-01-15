@@ -4,7 +4,6 @@
 
 <p align="justify">
 I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Data Science student passionate about community engagement and leveraging technology for positive change.
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleedsid" alt="waleedsid" /></a> </p>
 
 <p align="center">
   <!-- LinkedIn Button -->
@@ -75,7 +74,6 @@ I'm <strong>Waleed Siddique</strong>, a dynamic and motivated Data Science stude
 ## 📊 GitHub Stats
 
 
- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedsid&theme=light" alt="Waleed Siddique's GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedsid&show_icons=true&locale=en&layout=compact" alt="waleedsid" height="195" /> </p>
 
 
 
