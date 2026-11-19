@@ -1,45 +1,99 @@
-# Waleed Siddique
+<h1 align="center">Hi, I'm Waleed Siddique</h1>
 
-**Master's student in Data Science · Python, statistics and machine learning**
+## 👋 Hello, World!
 
-I'm studying how to build models, evaluate them honestly, and explain what their predictions can and can not tell us. My current focus is regression, uncertainty estimation and reproducible analysis.
+<p align="justify">
+I'm <strong>Waleed Siddique</strong>, a Master's student in Data Science who enjoys building things, exploring data, and sharing useful resources with the community. My current interests include machine learning, statistics, and regression.
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/waleedsid/) · [Portfolio](https://waleedsid.netlify.app/) · [Medium](https://medium.com/@waleedsid)
+<p align="center">
+  <!-- LinkedIn Button -->
+  <a href="https://linkedin.com/in/waleedsid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-## Start here: how uncertain is a prediction?
+  
+  <!-- Medium Button -->
+  <a href="https://medium.com/@waleedsid" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  
+  <!-- Discord Button -->
+  <a href="https://discord.gg/waleedsid" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 
-[**Conformal Regression Lab**](https://github.com/waleedsid/conformal-regression-lab) fits a linear model and uses a separate calibration sample to construct prediction intervals.
+  
+  <!-- Website Button -->
+  <a href="https://waleedsid.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
+  
+## 🛠️ Skills
+ <img align="right" alt="Animated illustration of a programmer coding" width="360"  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 
-The reproducible synthetic experiment compares regression against a training-mean baseline: test RMSE **1.60 vs 3.21**, with **88.27% observed coverage** for a nominal 90% interval. The repository includes the experiment, seven tests, and an explanation of why marginal coverage does not imply coverage for every subgroup.
+<h6>
+  Programming Languages 
+</h6>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="30" height="30"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="30" height="30"/></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="30" height="30"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" width="30" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="30" height="30"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP" width="30" height="30"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="30" height="30"/></a>
 
-## Other work
+<h6>Web Technologies </h6>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="30" height="30"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="30" height="30"/></a>
 
-| Project | What to explore |
-| --- | --- |
-| [Pakistani currency classification](https://github.com/waleedsid/Pakistani-currency-classification) | An earlier image-classification project. A [tested preprocessing fix](https://github.com/waleedsid/Pakistani-currency-classification/pull/1) addresses stale files when rebuilding train/test splits. |
-| [LinkHoDL](https://github.com/waleedsid/LinkHoDL) | A Flutter application for saving and organizing links, with screenshots and source code. |
-| [Personal portfolio](https://github.com/waleedsid/personal-portfolio-website) | Earlier web work in HTML, CSS and JavaScript. |
-| [COMSATS past papers](https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers) | A community study-resource collection, separate from my software and data science projects. |
+<h6>Frameworks</h6>  <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="GraphQL" width="30" height="30"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" width="30" height="30"/></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" title="Spring" width="30" height="30"/></a>
 
-## Questions I'm exploring
+<h6>Frontend Tools</h6>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="30" height="30"/></a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" title="Illustrator" width="30" height="30"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="Photoshop" width="30" height="30"/></a>
 
-- When does a more complex model earn its extra complexity?
-- How much do results change across samples, splits and subgroups?
-- Can someone else reproduce the analysis from a clean environment?
 
-My repositories include original projects, earlier learning exercises and forks. Forks retain their upstream attribution; the links above are a guided starting point.
+<br clear="both" />
 
-<details>
-<summary>Earlier courses and certifications</summary>
+## 🔬 On my data science workbench
 
-- User Experience & User Interface Designing — CyberVision International, March 2021
-- UI/UX Design With Figma — Udemy, September 2022
-- GOF Pattern Design — Udemy, September 2022
-- Content Marketing — HubSpot Academy, December 2023
-- Generative AI — Udemy, January 2024
-- Facial Recognition Using TensorFlow And Teachable Machine — Udemy, January 2024
-- Data Mesh — Udemy, September 2024
+- **[Conformal Regression Lab](https://github.com/waleedsid/conformal-regression-lab)** — How much uncertainty surrounds a prediction? Linear regression, calibrated prediction intervals, and a reproducible synthetic experiment.
+- **[Pakistani Currency Classification](https://github.com/waleedsid/Pakistani-currency-classification)** — Exploring image classification with Pakistani banknotes.
+- **[LinkHoDL](https://github.com/waleedsid/LinkHoDL)** — A Flutter project for keeping useful links close at hand.
 
-</details>
+## 📚 Certifications and Licenses
 
-For project discussions or collaboration, reach me on [LinkedIn](https://www.linkedin.com/in/waleedsid/).
+1. **User Experience & User Interface Designing | CyberVision International | Mar 2021**
+2. **UI/UX Design With Figma | Udemy | Issued: Sept 2022**
+3. **GOF Pattern Design | Udemy | Issued: Sept 2022**
+4. **Content Marketing | HubSpot Academy | Issued: Dec 2023**
+5. **Generative AI | Udemy | Issued: Jan 2024**
+6. **Facial Recognition Using TensorFlow And Teachable Machine | Udemy | Issued: Jan 2024**
+7. **Data Mesh - A Modern Decentralized Data Management Concept | Udemy | Issued: Sept 2024**
+8. **3+ Certifications| Passed LinkedIn Skill Assessment**
+9. **50+ Badges and 15+ Trophies from Microsoft**
+
+
+## 🌐 Around GitHub
+
+
+ <p align="center"> 
+ <a href="https://WaleedSid.mit-license.org/" target="_blank">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License"/>
+  </a>
+
+<a href="https://komarev.com/ghpvc/?username=waleedsid&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=waleedsid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+ </p>
+
+
+ <p align="center">
+Feel free to explore my repositories and reach out for collaboration or discussions. Happy coding! 🚀
+   </p>
+   <p align="center">
+Open Source Contributor from Pakistan 💚
+   </p>
