@@ -23,7 +23,7 @@
 
 ### Hello, World! 👋
 
-I'm **Waleed**, currently pursuing a Master's in **Data Science**. I'm drawn to the questions behind the numbers: why a model works, where it gets confused, and whether a good result survives a second look. This is my corner for exploring those questions—and building a few useful things along the way.
+I'm **Waleed**, currently pursuing a Master's in **Data Science**. I'm drawn to the questions behind the numbers: why a model works, where it gets confused, and whether a good result survives a second look. This is my corner for exploring those questions and building a few useful things along the way.
 
 - 🧠 **Exploring:** machine learning, statistics, and regression.
 - 🔍 **Curious about:** how much we should trust a model's predictions.
@@ -71,8 +71,6 @@ A mix of tools from my studies, web projects, and design work.
 
 Courses, certifications, and milestones from my learning journey.
 
-<details>
-<summary><strong>🎓 Open the collection</strong></summary>
 
 1. **User Experience & User Interface Designing | CyberVision International | Mar 2021**
 2. **UI/UX Design With Figma | Udemy | Issued: Sept 2022**
@@ -84,7 +82,7 @@ Courses, certifications, and milestones from my learning journey.
 8. **3+ Certifications| Passed LinkedIn Skill Assessment**
 9. **50+ Badges and 15+ Trophies from Microsoft**
 
-</details>
+
 
 ## Let's connect
 
@@ -99,6 +97,6 @@ Have an interesting dataset, a tricky question, or an idea to build? Let's talk.
   <a href="https://waleedsid.netlify.app/">Website</a>
 </p>
 
-<p align="center"><strong>Keep asking questions. Keep building. 🚀</strong><br/>Open Source Contributor from Pakistan 💚</p>
+<p align="center"><strong>Keep asking questions. Keep building. 🚀</strong></p>
 
 <p align="center"><a href="#about-me">↑ Back to the top</a></p>
