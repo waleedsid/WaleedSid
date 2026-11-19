@@ -2,7 +2,7 @@
 
 **Master's student in Data Science · Python, statistics and machine learning**
 
-I'm studying how to build models, evaluate them honestly, and explain what their predictions can—and cannot—tell us. My current focus is regression, uncertainty estimation and reproducible analysis.
+I'm studying how to build models, evaluate them honestly, and explain what their predictions can and can not tell us. My current focus is regression, uncertainty estimation and reproducible analysis.
 
 [LinkedIn](https://www.linkedin.com/in/waleedsid/) · [Portfolio](https://waleedsid.netlify.app/) · [Medium](https://medium.com/@waleedsid)
 
