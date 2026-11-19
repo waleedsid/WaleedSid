@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+<title id="title">Waleed Siddique — Data Science</title>
+<desc id="desc">A midnight-blue banner with cyan and violet geometric accents. Master's student in Data Science. Machine learning, statistics, and curious questions.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091426"/><stop offset="1" stop-color="#191632"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#57e6e6"/><stop offset="1" stop-color="#a994ff"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8da9cb" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="960" height="260" rx="20" fill="url(#bg)"/>
+<rect width="960" height="260" rx="20" fill="url(#grid)"/>
+<rect x="36" y="40" width="5" height="178" rx="2" fill="url(#line)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="60" y="64" font-size="13" letter-spacing="4" fill="#73eeee">DATA SCIENCE / ALWAYS CURIOUS</text>
+<text x="58" y="125" font-size="48" font-weight="700" fill="#f3f7ff">Waleed Siddique</text>
+<text x="60" y="163" font-size="20" fill="#c6d2e8">Master's student in Data Science</text>
+<text x="60" y="205" font-size="15" fill="#a8b9d5">MACHINE LEARNING  ·  STATISTICS  ·  BUILDING &amp; LEARNING</text>
+</g>
+<g fill="none" stroke="url(#line)" stroke-width="1.5" opacity=".65">
+<path d="M800 45 900 100 880 200 775 220 735 125Z"/>
+<path d="M800 45 880 200 735 125 900 100 775 220Z"/>
+<circle cx="812" cy="133" r="85" stroke-opacity=".25"/>
+</g>
+<g fill="#73eeee"><circle cx="800" cy="45" r="4"/><circle cx="900" cy="100" r="4"/><circle cx="880" cy="200" r="4"/><circle cx="775" cy="220" r="4"/><circle cx="735" cy="125" r="4"/></g>
+</svg>
