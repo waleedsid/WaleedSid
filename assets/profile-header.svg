@@ -10,10 +10,10 @@
 <rect width="960" height="260" rx="20" fill="url(#grid)"/>
 <rect x="36" y="40" width="5" height="178" rx="2" fill="url(#line)"/>
 <g font-family="Segoe UI,Arial,sans-serif">
-<text x="60" y="64" font-size="13" letter-spacing="4" fill="#73eeee">DATA SCIENCE / ALWAYS CURIOUS</text>
+<text x="60" y="64" font-size="13" letter-spacing="4" fill="#73eeee">LESS GUESSWORK. MORE AHA.</text>
 <text x="58" y="125" font-size="48" font-weight="700" fill="#f3f7ff">Waleed Siddique</text>
 <text x="60" y="163" font-size="20" fill="#c6d2e8">Master's student in Data Science</text>
-<text x="60" y="205" font-size="15" fill="#a8b9d5">MACHINE LEARNING  ·  STATISTICS  ·  BUILDING &amp; LEARNING</text>
+<text x="60" y="205" font-size="15" fill="#a8b9d5">MODELS, MESSY DATA &amp; THE OCCASIONAL EUREKA.</text>
 </g>
 <g fill="none" stroke="url(#line)" stroke-width="1.5" opacity=".65">
 <path d="M800 45 900 100 880 200 775 220 735 125Z"/>

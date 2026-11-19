@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <a href="#about-me">👋 About</a> &nbsp; / &nbsp;
-  <a href="#project-lab">🔬 Projects</a> &nbsp; / &nbsp;
-  <a href="#toolbox">🛠️ Toolbox</a> &nbsp; / &nbsp;
-  <a href="#learning-log">📚 Learning</a> &nbsp; / &nbsp;
-  <a href="#lets-connect">🌐 Connect</a>
+  <a href="#about-me"><img src="./assets/nav-about.svg" width="18%" alt="Meet Waleed" /></a>
+  <a href="#project-lab"><img src="./assets/nav-projects.svg" width="18%" alt="The lab" /></a>
+  <a href="#toolbox"><img src="./assets/nav-tools.svg" width="18%" alt="My toolkit" /></a>
+  <a href="#learning-log"><img src="./assets/nav-learning.svg" width="18%" alt="Side quests" /></a>
+  <a href="#lets-connect"><img src="./assets/nav-connect.svg" width="18%" alt="Say hello" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/waleedsid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://waleedsid.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-17263D?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=57E6E6" alt="Portfolio website" /></a>
-  <a href="https://medium.com/@waleedsid"><img src="https://img.shields.io/badge/Medium-17263D?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Medium" /></a>
-  <img src="https://img.shields.io/badge/Profile_Views-14.2k-57E6E6?style=for-the-badge&amp;labelColor=17263D" alt="Profile views: 14.2k (manually set display)" title="Manually set display; not a live analytics counter" />
+  <a href="https://www.linkedin.com/in/waleedsid/"><img src="./assets/social-linkedin.svg" width="23%" alt="LinkedIn — Let's connect" /></a>
+  <a href="https://waleedsid.netlify.app/"><img src="./assets/social-portfolio.svg" width="23%" alt="Portfolio — Explore my corner" /></a>
+  <a href="https://medium.com/@waleedsid"><img src="./assets/social-medium.svg" width="23%" alt="Medium — Notes &amp; ideas" /></a>
+  <img src="./assets/social-views.svg" width="23%" alt="Profile views: 14.2k (manually set display)" title="Manually set display, not live analytics" />
 </p>
 
 ## About me
@@ -23,7 +23,7 @@
 
 ### Hello, World! 👋
 
-I'm **Waleed**, a Master's student in **Data Science**. I enjoy turning questions into experiments, building useful things, and sharing what I learn along the way.
+I'm **Waleed**, currently pursuing a Master's in **Data Science**. I'm drawn to the questions behind the numbers: why a model works, where it gets confused, and whether a good result survives a second look. This is my corner for exploring those questions—and building a few useful things along the way.
 
 - 🧠 **Exploring:** machine learning, statistics, and regression.
 - 🔍 **Curious about:** how much we should trust a model's predictions.
@@ -34,40 +34,14 @@ I'm **Waleed**, a Master's student in **Data Science**. I enjoy turning question
 
 ## Project lab
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🔮 How sure is the prediction?</h3>
-<p><strong>Conformal Regression Lab</strong></p>
-<p>Linear regression with calibrated prediction intervals. A synthetic experiment, numerical tests, and a closer look at uncertainty.</p>
-<p><code>Python</code> <code>NumPy</code> <code>Statistics</code></p>
-<a href="https://github.com/waleedsid/conformal-regression-lab">Explore the experiment →</a>
-</td>
-<td width="50%" valign="top">
-<h3>💵 A closer look at currency</h3>
-<p><strong>Pakistani Currency Classification</strong></p>
-<p>An earlier image-classification project exploring Pakistani banknotes and the preprocessing behind a model.</p>
-<p><code>Python</code> <code>Computer vision</code></p>
-<a href="https://github.com/waleedsid/Pakistani-currency-classification">Open the project →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🔗 Good links deserve a home</h3>
-<p><strong>LinkHoDL</strong></p>
-<p>A Flutter project for saving and organizing useful links. Browse the app source and screenshots.</p>
-<p><code>Flutter</code> <code>Dart</code></p>
-<a href="https://github.com/waleedsid/LinkHoDL">Take a look →</a>
-</td>
-<td width="50%" valign="top">
-<h3>🌱 Built to share</h3>
-<p><strong>Community &amp; web projects</strong></p>
-<p>A collection of study resources and earlier experiments in web design.</p>
-<a href="https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers">COMSATS study resources →</a><br/>
-<a href="https://github.com/waleedsid/personal-portfolio-website">Personal portfolio source →</a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/waleedsid/conformal-regression-lab"><img src="./assets/project-regression.svg" width="49%" alt="Conformal Regression Lab — A point estimate is only half the story. Explore calibrated prediction intervals." /></a>
+  <a href="https://github.com/waleedsid/Pakistani-currency-classification"><img src="./assets/project-currency.svg" width="49%" alt="Pakistani Currency Classification — An earlier exploration of banknote images, classification, and data preparation." /></a>
+  <a href="https://github.com/waleedsid/LinkHoDL"><img src="./assets/project-links.svg" width="49%" alt="LinkHoDL — A Flutter project for collecting useful links. Browse the code and app screenshots." /></a>
+  <a href="https://github.com/waleedsid/COMSATS-University-Abbottabad-Past-Papers"><img src="./assets/project-community.svg" width="49%" alt="COMSATS study resources — A shared collection of past papers for the next person figuring things out." /></a>
+</p>
+
+<p align="center"><a href="https://github.com/waleedsid/personal-portfolio-website">🌐 Explore my earlier web work</a> &nbsp; · &nbsp; <a href="https://github.com/waleedsid?tab=repositories">Browse all repositories →</a></p>
 
 ## Toolbox
 
